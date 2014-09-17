@@ -1,4 +1,4 @@
-test
+snippet
 ====
 
 my test code snippet
